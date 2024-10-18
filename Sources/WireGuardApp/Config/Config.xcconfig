@@ -1,2 +1,5 @@
 #include "Version.xcconfig"
+
+PRODUCT_NAME = nyVPN
+
 #include "Developer.xcconfig"
