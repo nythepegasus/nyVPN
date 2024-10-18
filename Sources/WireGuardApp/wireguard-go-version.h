@@ -1,0 +1,1 @@
+#define WIREGUARD_GO_VERSION "1e2c3e5a"

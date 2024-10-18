@@ -434,7 +434,7 @@ public class WireGuardAdapter {
                 self.logHandler(.verbose, "Connectivity offline, pausing backend.")
 
                 self.state = .temporaryShutdown(settingsGenerator)
-                wgTurnOff(handle)
+//                wgTurnOff(handle)
             }
 
         case .temporaryShutdown(let settingsGenerator):
